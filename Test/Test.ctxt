@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=
+comment1.target=Test()
+comment2.params=novyStav
+comment2.target=void\ zmenStav(StavTestu)
+comment3.params=otazka
+comment3.target=void\ pridajOtazku(Otazka)
+comment4.params=
+comment4.target=void\ vypis()
+comment5.params=cisloOtazky\ cisloOdpovede
+comment5.target=void\ zmenVolbu(int,\ int)
+numComments=6

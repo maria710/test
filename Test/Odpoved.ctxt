@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Odpoved
+comment1.params=textOdpovede\ spravna
+comment1.target=Odpoved(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=void\ vypis()
+comment3.params=
+comment3.target=void\ zmenVolbu()
+comment4.params=
+comment4.target=int\ getHodnotenie()
+numComments=5

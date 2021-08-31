@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Otazka
+comment1.params=text
+comment1.target=Otazka(java.lang.String)
+comment2.params=textOdpovede\ spravna
+comment2.target=void\ pridajOdpoved(java.lang.String,\ boolean)
+comment3.params=
+comment3.target=void\ vypis()
+comment4.params=cisloOdpovede
+comment4.target=void\ zmenVolbu(int)
+comment5.params=
+comment5.target=int\ getHodnotenie()
+numComments=6
